@@ -1,0 +1,17 @@
+{
+  "name": "abccdd",
+  "version": "1.0.0",
+  "description": "abccdd description in cli",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShariirahS/abccdd.git"
+  },
+  "keywords": [],
+  "author": "program writer <myemail@gmail.com> (https://mywebsite.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/ShariirahS/abccdd"
+}
